@@ -62,5 +62,11 @@ body {
 iframe {
 border-width: 10px;
 border-color:purple;
-margin-left: 750px;
 }
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 100px;
+  padding-bottom: 30px;
+  }
