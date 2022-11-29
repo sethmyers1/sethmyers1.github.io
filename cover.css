@@ -51,6 +51,11 @@ body {
   color: rgb(223, 3, 223);
 }
 
+.text-grey {
+  color: rgba(255, 255, 255, 0.333);
+  text-decoration: none;
+}
+
 .rounded_img {
   width: 425px;
   height: 300px;
